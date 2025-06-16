@@ -1,0 +1,60 @@
+Timestamp,Action,Detail
+2025-06-06 13:27:02,Add User,pranali324 (owner)
+2025-06-06 13:27:55,Add Face,1 (C:/Users/prana/OneDrive/Desktop/project/dataset/pranali/PRANALI_016.jpg)
+2025-06-06 13:28:28,Remove Face,1
+2025-06-06 13:41:30,Import Timetable (overwrite),C:/Users/prana/OneDrive/Desktop/project/timetable/create_timetable.csv
+2025-06-06 13:54:29,Add Timetable CSV,create_timetable.csv
+2025-06-06 14:07:17,Add Timetable CSV,create_timetable.csv
+2025-06-06 14:23:07,Add Face Folder,anuja chaughule
+2025-06-06 14:23:35,Add Face Folder,bhakti
+2025-06-06 14:25:43,Add User,shravani584 (faculty)
+2025-06-07 11:09:13,Add Face Folder,deepface-env
+2025-06-07 11:09:13,Add Face Folder,Harshad Sonawane
+2025-06-07 11:09:13,Add Face Folder,kimaya
+2025-06-07 11:09:13,Add Face Folder,Pragati
+2025-06-07 11:09:13,Add Face Folder,pranali
+2025-06-07 11:09:13,Add Face Folder,Riya More
+2025-06-07 11:09:13,Add Face Folder,Saish
+2025-06-07 11:09:13,Add Face Folder,sakshi
+2025-06-07 11:09:13,Add Face Folder,sakshi patil
+2025-06-07 11:09:13,Add Face Folder,sanika
+2025-06-07 11:09:13,Add Face Folder,shital khuape
+2025-06-07 11:09:13,Add Face Folder,shraddha
+2025-06-07 11:09:14,Add Face Folder,shravani
+2025-06-07 11:09:14,Add Face Folder,Shravani yadav
+2025-06-07 11:09:14,Add Face Folder,shruti
+2025-06-07 11:09:14,Add Face Folder,sonali
+2025-06-07 11:09:14,Add Face Folder,suraj
+2025-06-07 11:09:14,Add Face Folder,swapnali
+2025-06-07 11:09:14,Add Face Folder,vaishali
+2025-06-07 12:13:34,Remove Face Folder,kimaya
+2025-06-07 12:14:00,Add Face Folder,kimaya
+2025-06-07 12:36:28,Remove Face Folder,anuja chaughule
+2025-06-07 12:36:49,Add Face Folder,anuja chaughule
+2025-06-08 12:08:26,Add User,pranali3 (owner)
+2025-06-08 12:18:26,Send Notification,hey
+2025-06-08 12:24:59,Export Attendance,final_attendance_report_20250606_152856.csv
+2025-06-08 13:25:59,Send Notification,To: pranali3 | heyy
+2025-06-08 14:51:01,Add Student,1: Pranali Mahendra Pawar
+2025-06-08 15:55:28,Add Face Folder,shraddham
+2025-06-08 15:55:31,Retrain Model Failed,"Command '['python', '2_preprocess_faces_yolo.py']' returned non-zero exit status 1."
+2025-06-08 16:39:39,Remove Face Folder,shraddham
+2025-06-08 16:47:08,Retrain Model,Face model retrained after dataset change.
+2025-06-08 16:59:19,Add Face Folder,shraddham
+2025-06-08 16:59:31,Retrain Model Failed,"Command '['python', '2_preprocess_faces_yolo.py']' returned non-zero exit status 1."
+2025-06-08 17:36:32,Remove Face Folder,shraddham
+2025-06-08 17:38:09,Retrain Model Failed,"Command '['python', '3_extract_embeddings_arcface.py']' returned non-zero exit status 2."
+2025-06-09 19:56:01,Add Face Folder,not me
+2025-06-09 19:59:47,Remove Face Folder,not me
+2025-06-09 20:00:02,Retrain Model Failed,"Command '['python', '1_preprocess_faces_yolo.py']' returned non-zero exit status 1."
+2025-06-09 20:00:53,Add Face Folder,not me
+2025-06-09 20:01:07,Retrain Model Failed,"Command '['python', '1_preprocess_faces_yolo.py']' returned non-zero exit status 1."
+2025-06-09 20:39:41,Remove Face Folder,not me
+2025-06-09 20:39:55,Retrain Model Failed,"Command '['python', '1_preprocess_faces_yolo.py']' returned non-zero exit status 1."
+2025-06-09 20:43:02,Add Face Folder,not me
+2025-06-09 20:43:17,Retrain Model Failed,"Command '['python', '1_preprocess_faces_yolo.py']' returned non-zero exit status 1."
+2025-06-09 20:45:11,Remove Face Folder,not me
+2025-06-09 20:45:24,Retrain Model Failed,"Command '['python', '1_preprocess_faces_yolo.py']' returned non-zero exit status 1."
+2025-06-09 21:11:35,Add Face Folder,not me
+2025-06-09 21:16:05,Retrain Model,Incremental retrain successful.
+2025-06-15 08:50:21,Add User,pmp324 (owner)

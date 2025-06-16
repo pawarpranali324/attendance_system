@@ -1,0 +1,9 @@
+tk
+opencv-python
+Pillow
+numpy
+joblib
+pandas
+bcrypt
+ultralytics
+deepface
